@@ -1,0 +1,36 @@
+
+body {
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
+}
+
+a {
+  color: #e43c5c;
+}
+
+a:hover {
+  color: #ea6981;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Nunito", sans-serif;
+}
+
+.jumbotron{
+  width: auto;
+  height: 800px;
+  border: 1px;
+  background-image: url(../img/ss.jpg);
+  background-size: cover;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gambar{
+  height: 200px;
+  border-radius: 50px;
+  margin-left: 480px;
+}
